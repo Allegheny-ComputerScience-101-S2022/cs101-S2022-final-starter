@@ -239,7 +239,7 @@ provided segment of Python source code.
 
 #### (4 Points) What is the exact output (including blank lines and spaces) of the provided source code segment?
 
-Please provide an answer to this question in a fenced code block.
+**IMPORTANT**: Please provide an answer to this question in a fenced code block.
 
 #### (6 Points) Using extensive detail, please explain the following components of `fibonacci_recursive`
 

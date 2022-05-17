@@ -284,9 +284,9 @@ own words without consulting any external resources.
 
 #### (2 Points) What is the purpose of software testing?
 
-#### (2 Points) Closed-box testing
+#### (2 Points) What does a tester do when performing closed-box testing?
 
-#### (2 Points) Glass-box testing
+#### (2 Points) What does a tester do when performing glass-box testing
 
 #### (2 Points) What steps would you take to use testing to ensure that a hashtable (i.e., dictionary) was implemented correctly?
 

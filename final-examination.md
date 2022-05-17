@@ -6,67 +6,13 @@
 navigate between questions if you view this file in your web browser. Please do
 not answer the questions in the table of contents.
 
-* [Questions for the Final Examination](#questions-for-the-final-examination)
-  + [(10 Points) Provide a definition of the following features of the Python programming language:](#10-points-provide-a-definition-of-the-following-features-of-the-python-programming-language)
-    - [(2 Points) Exception handling in the Python programming language](#2-points-exception-handling-in-the-python-programming-language)
-    - [(2 Points) Type annotations in the Python programming language](#2-points-type-annotations-in-the-python-programming-language)
-    - [(2 Points) `self` parameter in the Python programming language](#2-points-self-parameter-in-the-python-programming-language)
-    - [(2 Points) Memoization in the Python programming language](#2-points-memoization-in-the-python-programming-language)
-    - [(2 Points) Sorting algorithm in the Python programming language](#2-points-sorting-algorithm-in-the-python-programming-language)
-  + [(10 Points) Answer the following questions about the provided source code segment](#10-points-answer-the-following-questions-about-the-provided-source-code-segment)
-    - [(2 Points) What is the meaning of the notation `range(2, x)`?](#2-points-what-is-the-meaning-of-the-notation-range2-x)
-    - [(2 Points) What is the purpose of the `if x % guess == 0` statement in this source code?](#2-points-what-is-the-purpose-of-the-if-x-%25-guess--0-statement-in-this-source-code)
-    - [(2 Points) What is an example of an input that will cause the program to execute the first `print` statement? Explain in detail why.](#2-points-what-is-an-example-of-an-input-that-will-cause-the-program-to-execute-the-first-print-statement-explain-in-detail-why)
-    - [(2 Points) What is an example of an input that will cause the program to execute the second `print` statement? Explain in detail why.](#2-points-what-is-an-example-of-an-input-that-will-cause-the-program-to-execute-the-second-print-statement-explain-in-detail-why)
-    - [(2 Points) What is the meaning of the `{x}` notation inside of this source code statement?](#2-points-what-is-the-meaning-of-the-x-notation-inside-of-this-source-code-statement)
-  + [(10 Points) Answer the following questions about the `square` and `call_twice` functions](#10-points-answer-the-following-questions-about-the-square-and-call_twice-functions)
-    - [(4 Points) What is the exact output (including blank lines and spaces) of the provided source code segment?](#4-points-what-is-the-exact-output-including-blank-lines-and-spaces-of-the-provided-source-code-segment)
-    - [(2 Points) What is the purpose of the source code segment `len(L)`?](#2-points-what-is-the-purpose-of-the-source-code-segment-lenl)
-    - [(2 Points) What is the purpose of the source code segment `def apply_to_each(L, f):`?](#2-points-what-is-the-purpose-of-the-source-code-segment-def-apply_to_eachl-f)
-    - [(2 Points) What is the purpose of the source code segment `values = [1, -2, 3.33]`?](#2-points-what-is-the-purpose-of-the-source-code-segment-values--1--2-333)
-  + [(10 Points) Answer the following questions about the provided Python source code segment](#10-points-answer-the-following-questions-about-the-provided-python-source-code-segment)
-    - [(4 Points) What is the exact output (including blank lines and spaces) of the provided source code segment?](#4-points-what-is-the-exact-output-including-blank-lines-and-spaces-of-the-provided-source-code-segment-1)
-    - [(2 Points) What is the purpose of the source code segment `range(20)`?](#2-points-what-is-the-purpose-of-the-source-code-segment-range20)
-    - [(2 Points) What is the purpose of the source code segment `str(i)`?](#2-points-what-is-the-purpose-of-the-source-code-segment-stri)
-    - [(2 Points) What is the purpose of the source code segment `str(2**i)`?](#2-points-what-is-the-purpose-of-the-source-code-segment-str2i)
-  + [(10 Points) Using a fenced code block, provide the requested Python functions](#10-points-using-a-fenced-code-block-provide-the-requested-python-functions)
-    - [(5 Points) A Python function called `compute_intersection` that accepts as input two tuples and returns a tuple of the elements that those tuples have in common](#5-points-a-python-function-called-compute_intersection-that-accepts-as-input-two-tuples-and-returns-a-tuple-of-the-elements-that-those-tuples-have-in-common)
-    - [(5 Points) A Python function called `linear_search` that takes a `list` called `L` and an `int` called `e` as input and returns a `bool` indicating whether the element `e` is contained in the list `L`](#5-points-a-python-function-called-linear_search-that-takes-a-list-called-l-and-an-int-called-e-as-input-and-returns-a-bool-indicating-whether-the-element-e-is-contained-in-the-list-l)
-  + [(10 Points) Answer the following questions about the provided Python source code segment and the `fibonacci_recursive` function](#10-points-answer-the-following-questions-about-the-provided-python-source-code-segment-and-the-fibonacci_recursive-function)
-    - [(4 Points) What is the exact output (including blank lines and spaces) of the provided source code segment?](#4-points-what-is-the-exact-output-including-blank-lines-and-spaces-of-the-provided-source-code-segment-2)
-    - [(6 Points) Using extensive detail, please explain the following components of `fibonacci_recursive`](#6-points-using-extensive-detail-please-explain-the-following-components-of-fibonacci_recursive)
-      * [(2 Points) The **base case** of the function](#2-points-the-base-case-of-the-function)
-      * [(2 Points) The **recursive case** of the function](#2-points-the-recursive-case-of-the-function)
-      * [(2 Points) Evidence that the function **makes progress to the base case**](#2-points-evidence-that-the-function-makes-progress-to-the-base-case)
-  + [(10 Points) Answer the following questions about optimization problems using the following table that describes an instance of the 0/1 knapsack problem](#10-points-answer-the-following-questions-about-optimization-problems-using-the-following-table-that-describes-an-instance-of-the-01-knapsack-problem)
-    - [(2 Points) The 0/1 knapsack problem is an example of an optimization problem. What is an optimization problem?](#2-points-the-01-knapsack-problem-is-an-example-of-an-optimization-problem-what-is-an-optimization-problem)
-    - [(4 Points) How would a greedy-by-density algorithm solve this instance of the 0/1 knapsack problem?](#4-points-how-would-a-greedy-by-density-algorithm-solve-this-instance-of-the-01-knapsack-problem)
-    - [(4 Points) How would exhaustive enumeration algorithm solve this instance of the 0/1 knapsack problem?](#4-points-how-would-exhaustive-enumeration-algorithm-solve-this-instance-of-the-01-knapsack-problem)
-  + [(10 Points) Define the following terms and activities related to software testing and debugging](#10-points-define-the-following-terms-related-to-software-testing-and-debugging)
-    - [(2 Points) What is the purpose of software testing?](#2-points-what-is-the-purpose-of-software-testing)
-    - [(2 Points) Closed-box testing](#2-points-closed-box-testing)
-    - [(2 Points) Glass-box testing](#2-points-glass-box-testing)
-    - [(2 Points) What steps would you take to use testing to ensure that a hashtable (i.e., dictionary) was implemented correctly?](#2-points-what-steps-would-you-take-to-use-testing-to-ensure-that-a-hashtable-ie-dictionary-was-implemented-correctly)
-    - [(2 Points) What steps would you take to use testing to ensure that a sorting algorithm was implemented correctly?](#2-points-what-steps-would-you-take-to-use-testing-to-ensure-that-a-sorting-algorithm-was-implemented-correctly)
-  + [(12 Points) Answer the following questions about the structured types provided by the Python programming language](#12-points-answer-the-following-questions-about-the-structured-types-provided-by-the-python-programming-language)
-    - [(3 Points) The `str` structured type](#3-points-the-str-structured-type)
-      * [Give an example of each of the characteristics of this structured type](#give-an-example-of-each-of-the-characteristics-of-this-structured-type)
-    - [(3 Points) The `list` structured type](#3-points-the-list-structured-type)
-      * [Give an example of each of the characteristics of this structured type](#give-an-example-of-each-of-the-characteristics-of-this-structured-type-1)
-    - [(3 Points) The `tuple` structured type](#3-points-the-tuple-structured-type)
-      * [Give an example of each of the characteristics of this structured type](#give-an-example-of-each-of-the-characteristics-of-this-structured-type-2)
-* [(8 Points) Provide a detailed response that explains the worst-case time complexity of the provided Python function](#8-points-provide-a-detailed-response-that-explains-the-worst-case-time-complexity-of-the-provided-python-function)
-  + [(4 points) Using the Big-O notation, what is the worst-case time time complexity of this function? Please show all of your work.](#4-points-using-the-big-o-notation-what-is-the-worst-case-time-time-complexity-of-this-function-please-show-all-of-your-work)
-  + [(2 points) Using your knowledge of running a doubling experiment to predict the likely worst-case time complexity, about what would the doubling ratio be for this function?](#2-points-using-your-knowledge-of-running-a-doubling-experiment-to-predict-the-likely-worst-case-time-complexity-about-what-would-the-doubling-ratio-be-for-this-function)
-  + [(2 points) Using your knowledge of the Big-O notation, would you describe this as an efficient algorithm? Why?](#2-points-using-your-knowledge-of-the-big-o-notation-would-you-describe-this-as-an-efficient-algorithm-why)
-
-### Add Your Name Here
+## Add Your Name Here
 
 **IMPORTANT**: If you do not delete the phrase "Add Your Name Here" and then
 type your name in the section header then you are not fully taking credit for
 the work that you submitted when completing the examination.
 
-### Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this examination."
+## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this examination."
 
 You must retype the sentence here.
 
@@ -74,12 +20,12 @@ You must retype the sentence here.
 instructor will not know that you adhered to the Allegheny College Honor Code
 while completing the examination.
 
-### Dates for the Final Examination
+## Dates for the Final Examination
 
 - **Examination Released**: 2:00 PM on Wednesday, May 18, 2022
 - **Examination Due**: 5:00 PM on Wednesday, May 18, 2022
 
-### Honor Code for the Final Examination
+## Honor Code for the Final Examination
 
 - You **must** adhere to the Honor Code throughout your completion of the examination
 - You **may use** your laptop computer and its text editor and Python programming tools
@@ -97,13 +43,13 @@ sure that you review the [Allegheny College Honor
 Code](https://sites.allegheny.edu/about/honor-code/) before you start to take
 this examination.
 
-### Procedures for the Final Examination
+## Procedures for the Final Examination
 
 - You must provide answers to all these questions by typing in this file
 - The final version of this file must be in your GitHub repository by the due date
 - Unless you make special arrangements with the instructor, no late work will be accepted
 
-### Structure of the Final Examination
+## Structure of the Final Examination
 
 - The examination is worth 100 points
 - Each question has an assigned point total given in parentheses
@@ -198,7 +144,7 @@ Please provide an answer to this question in a fenced code block.
 
 #### (2 Points) What is the purpose of the source code segment `values = [1, -2, 3.33]`?
 
-### (10 Points) Answer the following questions about the provided Python source code segment
+### (8 Points) Answer the following questions about the provided Python source code segment
 
 ```python
 for i in range(20):
@@ -213,7 +159,7 @@ for i in range(20):
 print()
 ```
 
-#### (4 Points) What is the exact output (including blank lines and spaces) of the provided source code segment?
+#### (2 Points) What is the exact output (including blank lines and spaces) of the provided source code segment?
 
 Please provide an answer to this question in a fenced code block.
 
@@ -273,7 +219,7 @@ Please provide an answer to this question in a fenced code block.
 
 #### (2 Points) The 0/1 knapsack problem is an example of an optimization problem. What is an optimization problem?
 
-#### (4 Points) How would a greedy-by-density algorithm solve this instance of the 0/1 knapsack problem?
+#### (4 Points) How would a greedy-by-density (also called greedy-by-ratio) algorithm solve this instance of the 0/1 knapsack problem?
 
 **IMPORTANT**: In addition to explaining how this algorithm works, your response
 to this question should provide the output of the algorithm given the provided
@@ -341,7 +287,7 @@ remember to provide three examples in your response to this question.
 - A singleton `tuple`
 - A `tuple` that contains many elements
 
-## (8 Points) Provide a detailed response that explains the worst-case time complexity of the provided Python function
+### (6 Points) Provide a detailed response that explains the worst-case time complexity of the provided Python function
 
 ```python
 def fact(n):
@@ -353,8 +299,25 @@ def fact(n):
   return answer
 ```
 
-### (4 points) Using the Big-O notation, what is the worst-case time time complexity of this function? Please show all of your work.
+#### (2 points) Using the Big-O notation, what is the worst-case time time complexity of this function? Please show all of your work.
 
-### (2 points) Using your knowledge of running a doubling experiment to predict the likely worst-case time complexity, about what would the doubling ratio be for this function?
+#### (2 points) Using your knowledge of running a doubling experiment to predict the likely worst-case time complexity, about what would the doubling ratio be for this function?
 
-### (2 points) Using your knowledge of the Big-O notation, would you describe this as an efficient algorithm? Why?
+#### (2 points) Using your knowledge of the Big-O notation, would you describe this as an efficient algorithm? Why?
+
+### (3 Points) Compute the doubling ratio and then suggest the likely worst-case time complexity
+
+#### (1 point) Original size of the data has a running time of 11.23 seconds and doubled size of data has running time of 89.72 seconds
+
+- What is the doubling ratio?
+- What is the likely worst-case time complexity?
+
+#### (1 point) Original size of the data has a running time of 14.98 seconds and doubled size of data has running time of 31.45 seconds
+
+- What is the doubling ratio?
+- What is the likely worst-case time complexity?
+
+#### (1 point) Original size of the data has a running time of 12.63 seconds and doubled size of data has running time of 51.48 seconds
+
+- What is the doubling ratio?
+- What is the likely worst-case time complexity?

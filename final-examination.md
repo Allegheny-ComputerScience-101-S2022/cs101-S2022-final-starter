@@ -139,9 +139,14 @@ apply_to_each(values, lambda x: x**2)
 print("square(values) =", values)
 ```
 
+**IMPORTANT:** Do not search on the Internet or look in the textbook our the
+course web site for a description of this source code segment. Your answers to
+these questions should feature your own words and your own understanding of the
+provided segment of Python source code.
+
 #### (4 Points) What is the exact output (including blank lines and spaces) of the provided source code segment?
 
-Please provide an answer to this question in a fenced code block.
+**IMPORTANT**: Please provide an answer to this question in a fenced code block.
 
 #### (2 Points) What is the purpose of the source code segment `range(len(L))`?
 
@@ -163,6 +168,11 @@ for i in range(20):
 
 print()
 ```
+
+**IMPORTANT:** Do not search on the Internet or look in the textbook our the
+course web site for a description of this source code segment. Your answers to
+these questions should feature your own words and your own understanding of the
+provided segment of Python source code.
 
 #### (2 Points) What is the exact output (including blank lines and spaces) of the provided source code segment?
 
@@ -187,6 +197,11 @@ def fibonacci_generator(n: int) -> Iterator[int]:
 for fibonacci_value in fibonacci_generator(10):
     print(fibonacci_value, end=" ")
 ```
+
+**IMPORTANT:** Do not search on the Internet or look in the textbook our the
+course web site for a description of this source code segment. Your answers to
+these questions should feature your own words and your own understanding of the
+provided segment of Python source code.
 
 #### (1 Points) What is the purpose of the source code segment `a, b = b, a + b`?
 

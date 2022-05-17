@@ -232,6 +232,11 @@ for i in range(10):
     print(f"fib of {i} is {fibonacci_recursive(i)}")
 ```
 
+**IMPORTANT:** Do not search on the Internet or look in the textbook our the
+course web site for a description of this source code segment. Your answers to
+these questions should feature your own words and your own understanding of the
+provided segment of Python source code.
+
 #### (4 Points) What is the exact output (including blank lines and spaces) of the provided source code segment?
 
 Please provide an answer to this question in a fenced code block.

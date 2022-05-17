@@ -114,9 +114,8 @@ this examination.
 ### (10 Points) Provide a definition of the following features of the Python programming language:
 
 Your response to each of these sub-questions should **give at least one
-concrete example** to illustrate your definition. Depending on the
-sub-question, your response to each of these sub-questions should also use
-Python source code in a fenced code block.
+concrete example** to illustrate your definition. Your response to each of
+these sub-questions should also use Python source code in a fenced code block.
 
 **IMPORTANT:** Do not search on the Internet or look in the textbook for the
 definition of these terms. You should provide responses to these questions in

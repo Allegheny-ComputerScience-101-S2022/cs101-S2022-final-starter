@@ -287,7 +287,7 @@ remember to provide three examples in your response to this question.
 - A singleton `tuple`
 - A `tuple` that contains many elements
 
-### (6 Points) Provide a detailed response that explains the worst-case time complexity of the provided Python function
+### (5 Points) Provide a detailed response that explains the worst-case time complexity of the provided Python function
 
 ```python
 def fact(n):
@@ -303,9 +303,9 @@ def fact(n):
 
 #### (2 points) Using your knowledge of running a doubling experiment to predict the likely worst-case time complexity, about what would the doubling ratio be for this function?
 
-#### (2 points) Using your knowledge of the Big-O notation, would you describe this as an efficient algorithm? Why?
+#### (1 points) Using your knowledge of the Big-O notation, would you describe this as an efficient algorithm? Why?
 
-### (3 Points) Compute the doubling ratio and then suggest the likely worst-case time complexity
+### (3 Points) For each scenario, compute the doubling ratio and then suggest the likely worst-case time complexity
 
 #### (1 point) Original size of the data has a running time of 11.23 seconds and doubled size of data has running time of 89.72 seconds
 

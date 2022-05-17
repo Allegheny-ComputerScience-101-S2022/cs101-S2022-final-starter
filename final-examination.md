@@ -107,6 +107,11 @@ else:
     print(f"Wow, {x} is a prime number!")
 ```
 
+**IMPORTANT:** Do not search on the Internet or look in the textbook or on the
+course web site for the description of this source code. You should provide
+responses to each of these questions in your own words, providing supporting
+source code examples in fenced code blocks as needed.
+
 #### (2 Points) What is the meaning of the notation `range(2, x)`?
 
 #### (2 Points) What is the purpose of the `if x % guess == 0` statement in this source code?

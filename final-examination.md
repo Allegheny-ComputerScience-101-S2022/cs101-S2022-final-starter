@@ -1,4 +1,4 @@
-# Final Examination for Computer Science 101 Fall 2021
+# Final Examination for Computer Science 101 Spring 2022
 
 ## Table of Contents
 
@@ -76,8 +76,8 @@ while completing the examination.
 
 ### Dates for the Final Examination
 
-- **Examination Released**: 9:00 AM on Friday, December 10, 2021
-- **Examination Due**: 12:00 noon on Friday, December 10, 2021
+- **Examination Released**: 2:00 PM on Wednesday, May 18, 2022
+- **Examination Due**: 5:00 PM on Wednesday, May 18, 2022
 
 ### Honor Code for the Final Examination
 

@@ -120,7 +120,7 @@ source code examples in fenced code blocks as needed.
 
 #### (2 Points) What is an example of an input that will cause the program to execute the second `print` statement? Explain in detail why.
 
-#### (2 Points) What is the meaning of the `{x}` notation inside of this source code statement?
+#### (2 Points) What is the meaning of the `{x}` notation inside of this source code segment?
 
 ### (10 Points) Answer the following questions about the `square` and `call_twice` functions
 
@@ -143,7 +143,7 @@ print("square(values) =", values)
 
 Please provide an answer to this question in a fenced code block.
 
-#### (2 Points) What is the purpose of the source code segment `len(L)`?
+#### (2 Points) What is the purpose of the source code segment `range(len(L))`?
 
 #### (2 Points) What is the purpose of the source code segment `def apply_to_each(L, f):`?
 

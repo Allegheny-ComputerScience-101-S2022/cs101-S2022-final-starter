@@ -31,7 +31,7 @@ while completing the examination.
 - You **may use** your laptop computer and its text editor and Python programming tools
 - You **may not** refer to the Python source code that you wrote during the semester
 - You **may not** refer to the technical writing that you completed during the semester
-- You **may not** refer to your notes, the course textbook, or any online resources
+- You **may not** refer to your notes, the course textbook or web site, or any online resources
 - You **may not** discuss any aspect of the examination with anyone except the course instructor
 
 **IMPORTANT**: All students in this course are obligated to adhere to the
@@ -247,7 +247,7 @@ own words without consulting any external resources.
 
 #### (2 Points) What steps would you take to use testing to ensure that a sorting algorithm was implemented correctly?
 
-### (2 Points) Identify and explain the two defects inside of the following constructor for a Dictionary
+### (2 Points) Identify and explain the two defects inside of the following constructor for a dictionary
 
 ```python
 def __str__(self, num_buckets: int) -> None:
@@ -257,9 +257,9 @@ def __str__(self, num_buckets: int) -> None:
         self.buckets.append([])
 ```
 
-- What is the first defect in the constructor for a Dictionary?
+- What is the first defect in the constructor for a dictionary?
 
-- What is the second defect in the constructor for a Dictionary?
+- What is the second defect in the constructor for a dictionary?
 
 ### (12 Points) Answer the following questions about the structured types provided by the Python programming language
 

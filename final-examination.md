@@ -60,7 +60,7 @@ not answer the questions in the table of contents.
   - [(3 Points) The `tuple` structured type](#3-points-the-tuple-structured-type)
     * [Give an example of each of the characteristics of this structured type](#give-an-example-of-each-of-the-characteristics-of-this-structured-type-2)
 + [(5 Points) Provide a detailed response that explains the worst-case time complexity of the provided Python function](#5-points-provide-a-detailed-response-that-explains-the-worst-case-time-complexity-of-the-provided-python-function)
-  - [(2 points) Using the Big-O notation, what is the worst-case time complexity of this function? Please show all of your work.](#2-points-using-the-big-o-notation-what-is-the-worst-case-time-time-complexity-of-this-function-please-show-all-of-your-work)
+  - [(2 points) Using the Big-O notation, what is the worst-case time complexity of this function? Please show all of your work and justify your response.](#2-points-using-the-big-o-notation-what-is-the-worst-case-time-time-complexity-of-this-function-please-show-all-of-your-work)
   - [(2 points) Using your knowledge of running a doubling experiment to predict the likely worst-case time complexity of a Python function, approximately what would the doubling ratio be for this function?](#2-points-using-your-knowledge-of-running-a-doubling-experiment-to-predict-the-likely-worst-case-time-complexity-of-a-python-function-approximately-what-would-the-doubling-ratio-be-for-this-function)
   - [(1 points) Using your knowledge of the Big-O notation, would you describe this as an efficient algorithm? Why?](#1-points-using-your-knowledge-of-the-big-o-notation-would-you-describe-this-as-an-efficient-algorithm-why)
 + [(3 Points) For each scenario, compute the doubling ratio and then suggest the likely worst-case time complexity](#3-points-for-each-scenario-compute-the-doubling-ratio-and-then-suggest-the-likely-worst-case-time-complexity)
@@ -420,7 +420,7 @@ def fact(n):
   return answer
 ```
 
-#### (2 points) Using the Big-O notation, what is the worst-case time complexity of this function? Please show all of your work.
+#### (2 points) Using the Big-O notation, what is the worst-case time complexity of this function? Please show all of your work and justify your response.
 
 #### (2 points) Using your knowledge of running a doubling experiment to predict the likely worst-case time complexity of a Python function, approximately what would the doubling ratio be for this function?
 

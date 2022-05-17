@@ -166,7 +166,7 @@ print()
 
 #### (2 Points) What is the exact output (including blank lines and spaces) of the provided source code segment?
 
-Please provide an answer to this question in a fenced code block.
+**IMPORTANT**: Please provide an answer to this question in a fenced code block.
 
 #### (2 Points) What is the purpose of the source code segment `range(20)`?
 

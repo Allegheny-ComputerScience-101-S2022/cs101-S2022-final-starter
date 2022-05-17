@@ -44,11 +44,11 @@ not answer the questions in the table of contents.
 + [(10 Points) Answer the following questions about optimization problems using the following table that describes an instance of the 0/1 knapsack problem](#10-points-answer-the-following-questions-about-optimization-problems-using-the-following-table-that-describes-an-instance-of-the-01-knapsack-problem)
   - [(2 Points) The 0/1 knapsack problem is an example of an optimization problem. What is an optimization problem?](#2-points-the-01-knapsack-problem-is-an-example-of-an-optimization-problem-what-is-an-optimization-problem)
   - [(4 Points) How would a greedy-by-density (also called greedy-by-ratio) algorithm solve this instance of the 0/1 knapsack problem?](#4-points-how-would-a-greedy-by-density-also-called-greedy-by-ratio-algorithm-solve-this-instance-of-the-01-knapsack-problem)
-  - [(4 Points) How would the exhaustive enumeration algorithm solve this instance of the 0/1 knapsack problem?](#4-points-how-would-exhaustive-enumeration-algorithm-solve-this-instance-of-the-01-knapsack-problem)
+  - [(4 Points) How would the exhaustive enumeration algorithm solve this instance of the 0/1 knapsack problem?](#4-points-how-would-the-exhaustive-enumeration-algorithm-solve-this-instance-of-the-01-knapsack-problem)
 + [(10 Points) Define the following terms and activities related to software testing and debugging](#10-points-define-the-following-terms-and-activities-related-to-software-testing-and-debugging)
   - [(2 Points) What is the purpose of software testing?](#2-points-what-is-the-purpose-of-software-testing)
   - [(2 Points) What does a tester do when performing closed-box testing?](#2-points-what-does-a-tester-do-when-performing-closed-box-testing)
-  - [(2 Points) What does a tester do when performing glass-box testing](#2-points-what-does-a-tester-do-when-performing-glass-box-testing)
+  - [(2 Points) What does a tester do when performing glass-box testing?](#2-points-what-does-a-tester-do-when-performing-glass-box-testing)
   - [(2 Points) What steps would you take to use testing to ensure that a hashtable (i.e., dictionary) was implemented correctly?](#2-points-what-steps-would-you-take-to-use-testing-to-ensure-that-a-hashtable-ie-dictionary-was-implemented-correctly)
   - [(2 Points) What steps would you take to use testing to ensure that a sorting algorithm was implemented correctly?](#2-points-what-steps-would-you-take-to-use-testing-to-ensure-that-a-sorting-algorithm-was-implemented-correctly)
 + [(2 Points) Identify and explain the two defects inside of the following constructor for a dictionary](#2-points-identify-and-explain-the-two-defects-inside-of-the-following-constructor-for-a-dictionary)
@@ -60,14 +60,13 @@ not answer the questions in the table of contents.
   - [(3 Points) The `tuple` structured type](#3-points-the-tuple-structured-type)
     * [Give an example of each of the characteristics of this structured type](#give-an-example-of-each-of-the-characteristics-of-this-structured-type-2)
 + [(5 Points) Provide a detailed response that explains the worst-case time complexity of the provided Python function](#5-points-provide-a-detailed-response-that-explains-the-worst-case-time-complexity-of-the-provided-python-function)
-  - [(2 points) Using the Big-O notation, what is the worst-case time complexity of this function? Please show all of your work and justify your response.](#2-points-using-the-big-o-notation-what-is-the-worst-case-time-time-complexity-of-this-function-please-show-all-of-your-work)
+  - [(2 points) Using the Big-O notation, what is the worst-case time complexity of this function? Please show all of your work and justify your response.](#2-points-using-the-big-o-notation-what-is-the-worst-case-time-complexity-of-this-function-please-show-all-of-your-work-and-justify-your-response)
   - [(2 points) Using your knowledge of running a doubling experiment to predict the likely worst-case time complexity of a Python function, approximately what would the doubling ratio be for this function?](#2-points-using-your-knowledge-of-running-a-doubling-experiment-to-predict-the-likely-worst-case-time-complexity-of-a-python-function-approximately-what-would-the-doubling-ratio-be-for-this-function)
   - [(1 points) Using your knowledge of the Big-O notation, would you describe this as an efficient algorithm? Why?](#1-points-using-your-knowledge-of-the-big-o-notation-would-you-describe-this-as-an-efficient-algorithm-why)
 + [(3 Points) For each scenario, compute the doubling ratio and then suggest the likely worst-case time complexity](#3-points-for-each-scenario-compute-the-doubling-ratio-and-then-suggest-the-likely-worst-case-time-complexity)
   - [(1 point) Original size of the data has a running time of 11.23 seconds and doubled size of data has running time of 89.72 seconds](#1-point-original-size-of-the-data-has-a-running-time-of-1123-seconds-and-doubled-size-of-data-has-running-time-of-8972-seconds)
   - [(1 point) Original size of the data has a running time of 14.98 seconds and doubled size of data has running time of 31.45 seconds](#1-point-original-size-of-the-data-has-a-running-time-of-1498-seconds-and-doubled-size-of-data-has-running-time-of-3145-seconds)
   - [(1 point) Original size of the data has a running time of 12.63 seconds and doubled size of data has running time of 51.48 seconds](#1-point-original-size-of-the-data-has-a-running-time-of-1263-seconds-and-doubled-size-of-data-has-running-time-of-5148-seconds)
-
 ## Add Your Name Here
 
 **IMPORTANT**: If you do not delete the phrase "Add Your Name Here" and then
@@ -348,7 +347,7 @@ own words without consulting any external resources.
 
 #### (2 Points) What does a tester do when performing closed-box testing?
 
-#### (2 Points) What does a tester do when performing glass-box testing
+#### (2 Points) What does a tester do when performing glass-box testing?
 
 #### (2 Points) What steps would you take to use testing to ensure that a hashtable (i.e., dictionary) was implemented correctly?
 

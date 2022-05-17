@@ -321,3 +321,17 @@ def fact(n):
 
 - What is the doubling ratio?
 - What is the likely worst-case time complexity?
+
+### (2 Points) Identify and explain the two defects inside of the following constructor for a Dictionary
+
+```python
+def __str__(self, num_buckets: int) -> None:
+    self.buckets = None
+    self.num_buckets = num_buckets
+    for i in range(num_buckets):
+        self.buckets.append([])
+```
+
+- What is the first defect in the constructor for a Dictionary?
+
+- What is the second defect in the constructor for a Dictionary?

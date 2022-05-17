@@ -44,7 +44,7 @@ not answer the questions in the table of contents.
 + [(10 Points) Answer the following questions about optimization problems using the following table that describes an instance of the 0/1 knapsack problem](#10-points-answer-the-following-questions-about-optimization-problems-using-the-following-table-that-describes-an-instance-of-the-01-knapsack-problem)
   - [(2 Points) The 0/1 knapsack problem is an example of an optimization problem. What is an optimization problem?](#2-points-the-01-knapsack-problem-is-an-example-of-an-optimization-problem-what-is-an-optimization-problem)
   - [(4 Points) How would a greedy-by-density (also called greedy-by-ratio) algorithm solve this instance of the 0/1 knapsack problem?](#4-points-how-would-a-greedy-by-density-also-called-greedy-by-ratio-algorithm-solve-this-instance-of-the-01-knapsack-problem)
-  - [(4 Points) How would exhaustive enumeration algorithm solve this instance of the 0/1 knapsack problem?](#4-points-how-would-exhaustive-enumeration-algorithm-solve-this-instance-of-the-01-knapsack-problem)
+  - [(4 Points) How would the exhaustive enumeration algorithm solve this instance of the 0/1 knapsack problem?](#4-points-how-would-exhaustive-enumeration-algorithm-solve-this-instance-of-the-01-knapsack-problem)
 + [(10 Points) Define the following terms and activities related to software testing and debugging](#10-points-define-the-following-terms-and-activities-related-to-software-testing-and-debugging)
   - [(2 Points) What is the purpose of software testing?](#2-points-what-is-the-purpose-of-software-testing)
   - [(2 Points) What does a tester do when performing closed-box testing?](#2-points-what-does-a-tester-do-when-performing-closed-box-testing)
@@ -332,7 +332,7 @@ provided segment of Python source code.
 to this question should provide the output of the algorithm given the provided
 table of six items.
 
-#### (4 Points) How would exhaustive enumeration algorithm solve this instance of the 0/1 knapsack problem?
+#### (4 Points) How would the exhaustive enumeration algorithm solve this instance of the 0/1 knapsack problem?
 
 **IMPORTANT**: In addition to explaining how this algorithm works, your response
 to this question should provide the output of the algorithm given the provided

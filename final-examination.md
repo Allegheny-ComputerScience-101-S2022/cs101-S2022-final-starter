@@ -147,7 +147,7 @@ Please provide an answer to this question in a fenced code block.
 
 #### (2 Points) What is the purpose of the source code segment `def apply_to_each(L, f):`?
 
-#### (2 Points) What is the purpose of the source code segment `values = [1, -2, 3.33]`?
+#### (2 Points) What is the purpose of the source code segment `apply_to_each(values, lambda x: x**2)`?
 
 ### (8 Points) Answer the following questions about the provided Python source code segment
 

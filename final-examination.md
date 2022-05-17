@@ -247,6 +247,20 @@ own words without consulting any external resources.
 
 #### (2 Points) What steps would you take to use testing to ensure that a sorting algorithm was implemented correctly?
 
+### (2 Points) Identify and explain the two defects inside of the following constructor for a Dictionary
+
+```python
+def __str__(self, num_buckets: int) -> None:
+    self.buckets = None
+    self.num_buckets = num_buckets
+    for i in range(num_buckets):
+        self.buckets.append([])
+```
+
+- What is the first defect in the constructor for a Dictionary?
+
+- What is the second defect in the constructor for a Dictionary?
+
 ### (12 Points) Answer the following questions about the structured types provided by the Python programming language
 
 **IMPORTANT**: Use Python source code to provide each of the requested examples.
@@ -321,17 +335,3 @@ def fact(n):
 
 - What is the doubling ratio?
 - What is the likely worst-case time complexity?
-
-### (2 Points) Identify and explain the two defects inside of the following constructor for a Dictionary
-
-```python
-def __str__(self, num_buckets: int) -> None:
-    self.buckets = None
-    self.num_buckets = num_buckets
-    for i in range(num_buckets):
-        self.buckets.append([])
-```
-
-- What is the first defect in the constructor for a Dictionary?
-
-- What is the second defect in the constructor for a Dictionary?

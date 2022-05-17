@@ -360,7 +360,7 @@ def fact(n):
 
 #### (2 points) Using the Big-O notation, what is the worst-case time time complexity of this function? Please show all of your work.
 
-#### (2 points) Using your knowledge of running a doubling experiment to predict the likely worst-case time complexity, about what would the doubling ratio be for this function?
+#### (2 points) Using your knowledge of running a doubling experiment to predict the likely worst-case time complexity, approximately what would the doubling ratio be for this function?
 
 #### (1 points) Using your knowledge of the Big-O notation, would you describe this as an efficient algorithm? Why?
 

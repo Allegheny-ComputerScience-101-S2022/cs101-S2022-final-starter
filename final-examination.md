@@ -149,7 +149,7 @@ Please provide an answer to this question in a fenced code block.
 
 #### (2 Points) What is the purpose of the source code segment `apply_to_each(values, lambda x: x**2)`?
 
-### (8 Points) Answer the following questions about the provided Python source code segment
+### (5 Points) Answer the following questions about the provided Python source code segment
 
 ```python
 for i in range(20):
@@ -168,11 +168,31 @@ print()
 
 **IMPORTANT**: Please provide an answer to this question in a fenced code block.
 
-#### (2 Points) What is the purpose of the source code segment `range(20)`?
+#### (1 Points) What is the purpose of the source code segment `range(20)`?
 
-#### (2 Points) What is the purpose of the source code segment `str(i)`?
+#### (1 Points) What is the purpose of the source code segment `str(i)`?
 
-#### (2 Points) What is the purpose of the source code segment `str(2**i)`?
+#### (1 Points) What is the purpose of the source code segment `str(2**i)`?
+
+### (3 Points) Answer the following questions about the provided Python source code segment
+
+```python
+def fibonacci_generator(n: int) -> Iterator[int]:
+    a = 1
+    b = 1
+    for i in range(n):
+        yield a
+        a, b = b, a + b
+
+for fibonacci_value in fibonacci_generator(10):
+    print(fibonacci_value, end=" ")
+```
+
+#### (1 Points) What is the purpose of the source code segment `a, b = b, a + b`?
+
+#### (1 Points) What is the purpose of the source code segment `yield a`?
+
+#### (1 Points) What is the purpose of the source code segment `for i in range(n):`?
 
 ### (10 Points) Using a fenced code block, provide the requested Python functions
 

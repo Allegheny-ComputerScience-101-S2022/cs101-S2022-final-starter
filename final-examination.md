@@ -169,7 +169,7 @@ for i in range(20):
 print()
 ```
 
-**IMPORTANT:** Do not search on the Internet or look in the textbook our the
+**IMPORTANT:** Do not search on the Internet or look in the textbook or the
 course web site for a description of this source code segment. Your answers to
 these questions should feature your own words and your own understanding of the
 provided segment of Python source code.
